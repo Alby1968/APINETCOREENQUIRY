@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://enquirywebapi.onrender.com/api/enquirymaster'
+  apiUrl: 'https://apinetcoreangularenquiry.onrender.com/api/enquirymaster'
 };
