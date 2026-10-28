@@ -9,7 +9,8 @@ import { environment } from '../../environments/environment.prod';
 })
 export class Master {
 
-  baseUrl = environment.apiUrl;
+  baseUrl =  'https://apinetcoreangularenquiry.onrender.com/api/EnquiryMaster';
+
 
   constructor(private http: HttpClient) {}
 
